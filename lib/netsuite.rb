@@ -231,6 +231,7 @@ module NetSuite
     autoload :SerializedInventoryItemLocation,       'netsuite/records/serialized_inventory_item_location'
     autoload :SerializedInventoryItemLocationsList,       'netsuite/records/serialized_inventory_item_locations_list'
     autoload :ShipAddress,                      'netsuite/records/ship_address'
+    autoload :ShipItem,                         'netsuite/records/ship_item'
     autoload :SiteCategory,                     'netsuite/records/site_category'
     autoload :Subsidiary,                       'netsuite/records/subsidiary'
     autoload :SubtotalItem,                     'netsuite/records/subtotal_item'
